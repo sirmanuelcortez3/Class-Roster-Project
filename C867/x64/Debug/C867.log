@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Roster.cpp
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(15,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(19,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(23,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(27,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(31,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(35,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(39,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(43,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\C867\Roster.cpp(47,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  Generating Code...
+  C867.vcxproj -> C:\Users\yessi\source\repos\C867 Class Roster\C867 Class Roster\x64\Debug\C867.exe
